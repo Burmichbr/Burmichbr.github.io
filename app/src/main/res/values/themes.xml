@@ -1,0 +1,17 @@
+<resources>
+
+  <style name="Base.Theme.HelperBotBR" parent="Theme.Material3.Light.NoActionBar">
+    <item name="colorPrimary">@color/red</item>
+    <item name="colorSecondary">@color/red</item>
+    <item name="android:statusBarColor">@color/gray</item>
+    <item name="android:windowBackground">@color/black</item>
+  </style>
+
+  <style name="Theme.HelperBotBR" parent="Base.Theme.HelperBotBR" />
+
+  <style name="SpinnerTheme">
+    <item name="android:textColor">@color/white</item>
+    <item name="android:fontFamily">@font/gothampro_medium</item>
+    <item name="android:background">@color/gray</item>
+  </style>
+</resources>

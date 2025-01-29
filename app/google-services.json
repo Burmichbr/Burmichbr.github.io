@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266568932786",
+    "project_id": "helper-bot-br",
+    "storage_bucket": "helper-bot-br.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266568932786:android:ed9a7b51aad1b682a298ab",
+        "android_client_info": {
+          "package_name": "dev.danifa19.helperbotbr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2xQDIToqzoe2dynCKcFdYbwfwDEER9ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
